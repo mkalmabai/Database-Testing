@@ -1,0 +1,28 @@
+.item {
+    margin: 0;
+    text-align: center;
+}
+
+img {
+    height: 10rem;
+    border-radius: 3px;
+}
+
+.content {
+    text-align: center;
+}
+
+p.title {
+    color: #2c292b;
+    font-weight: bold;
+}
+p.subtitle {
+    margin-left: 0.2rem;
+    color: #666;
+    font-size: 0.8rem;
+    font-weight: lighter;
+}
+
+.item a {
+    text-decoration: none;
+}
